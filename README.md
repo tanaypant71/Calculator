@@ -1,4 +1,4 @@
-Calculator App
+# Calculator App
 
 This is a simple calculator app developed using Kotlin in Android Studio. The app allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division.
 
